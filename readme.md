@@ -3,6 +3,8 @@ This is the repo for reproducing the results of the "Task-Agnostic Language Mode
 
 Link to arXiv paper: [https://arxiv.org/abs/2203.00748](https://arxiv.org/abs/2412.12563)
 
+Link to Huawei's AI Gallery Notebook: https://developer.huaweicloud.com/develop/aigallery/notebook/detail?id=58b799a0-5cfc-4c2e-8b9b-440bb2315264
+
 <p align="center">
 <center>
 <img src="https://vbdai-notebooks.obs.cn-north-4.myhuaweicloud.com/ptl/cover.png" alt="alt text" width="1000">
