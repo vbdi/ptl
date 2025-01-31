@@ -1,5 +1,7 @@
 # Task-Agnostic Language Model Watermarking via High Entropy Passthrough Layers
-This is the notebook for reproducing the results of the "Task-Agnostic Language Model Watermarking via High Entropy Passthrough Layers" paper accepted for publication in AAAI2025.
+This is the repo for reproducing the results of the "Task-Agnostic Language Model Watermarking via High Entropy Passthrough Layers" paper accepted for publication in AAAI2025.
+
+Link to arXiv paper: [https://arxiv.org/abs/2203.00748](https://arxiv.org/abs/2412.12563)
 
 <p align="center">
 <center>
